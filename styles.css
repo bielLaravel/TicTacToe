@@ -1,0 +1,25 @@
+.quadrat{
+    height: 100px;
+    width: 100px;
+    background-color: #b0bec5 ;
+}
+.clickO{
+    background-color: #a7c4a0 !important;
+    border-color: #a7c4a0 !important ;
+}
+.clickX{
+    background-color: #a09abc !important ;
+    border: #a09abc !important;
+}
+.inputReset{
+    background-color: #ee6352;
+    border: #ee6352;
+    margin-top: 20px;
+    color: white !important;
+    font-size: 20px;
+}
+h1{
+    font-family: 'Modak', cursive;
+    font-size: 60px;
+
+}
